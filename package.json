@@ -1,0 +1,2 @@
+{ "name": "wisp", "type": "module", "scripts": { "start": "node server.js" },
+  "dependencies": { "wisp-server-node": "^1.1.7" } }
